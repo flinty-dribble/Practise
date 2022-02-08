@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/flinty-dribble/Practise/issues"
   },
-  "homepage": "https://github.com/flinty-dribble/Practise#readme"
+  "homepage": "https://github.com/flinty-dribble/Practise#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
